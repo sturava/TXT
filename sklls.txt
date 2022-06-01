@@ -1,0 +1,5 @@
+1. GIT
+2. Postman
+3. Android Studio
+4. SQL
+5. Java Script

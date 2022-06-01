@@ -1,0 +1,5 @@
+Last name - Ivanova
+ Name - Ola
+ Age - 35
+ Num pets - 1
+ Salary - 500
